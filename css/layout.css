@@ -418,3 +418,21 @@ nav:hover
   z-index:10000;
   border-radius:5px;
 }
+.bloczek1{
+  margin:auto;
+}
+#dk2{
+ color:#16b0bf;
+  list-style-type:none;
+  float:left;
+}
+#k2{
+  float:left;
+  color:#333;
+  font-size:24px;
+  margin-left:5px;
+
+}
+#dk2 #k2{
+  margin-top:5px;
+}
